@@ -8,6 +8,7 @@ import org.springframework.web.client.RestTemplate;
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.ResourceAccessException;
 
+// FastAPI 불러오는 예시
 @RestController
 @RequestMapping("/api")
 public class HelloController {
